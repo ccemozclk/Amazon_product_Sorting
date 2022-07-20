@@ -17,12 +17,12 @@ In order to survive in the most profitable way in competition conditions in e-co
 This dataset containing Amazon Product Data includes product categories and various metadata.
 The product with the most comments in the electronics category has user ratings and comments.
 
-# CSV File Size: 71.9MB
-# Features: 12
-# Row: 4915   
+### CSV File Size: 71.9MB
+### Features: 12
+### Row: 4915   
 
 
-# Features:
+## Features:
 
 
 - reviewerID --> User Id
